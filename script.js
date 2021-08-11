@@ -28,3 +28,4 @@ $("textarea").on('change keyup paste', function ()//update cung luc html va outp
 {
     updateOutput()
 });
+ 
